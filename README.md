@@ -1,7 +1,7 @@
 # Creating a warehouse application in salesforce.com
 
-### Name : KARTHICK K
-### Reg.No: 212222040070
+### Name : Kishore A
+### Reg.No: 212223110022
 
 ## AIM: Creating a Warehouse application in SalesForce.com.
 
